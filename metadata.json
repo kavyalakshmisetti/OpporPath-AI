@@ -1,0 +1,6 @@
+{
+  "name": "OpporPath AI",
+  "description": "AI-powered career opportunity platform for students and early-career talents discovering internships, jobs, hackathons, and meetups with intelligent match scoring and skill gap analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
